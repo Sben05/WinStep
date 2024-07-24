@@ -1,0 +1,17 @@
+langchain
+langchain-google-genai
+streamlit
+langchain-community
+pillow
+requests
+flask
+flask-ngrok
+pytrends
+seaborn
+matplotlib
+pyngrok
+streamlit-cropper
+stqdm
+streamlit-custom-notification-box
+firebase-admin
+
